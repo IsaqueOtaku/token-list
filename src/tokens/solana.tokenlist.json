@@ -311,6 +311,21 @@
       }
     },
     {
+  "chainId": 101,
+  "address": "BR3NvFn8r3XoC99Jqa3dQT9vKEX7acQtAAiE8iWjuBa5",
+  "symbol": "AA",
+  "name": "Ancient Adena",
+  "decimals": 9,
+  "logoURI": "https://drive.google.com/uc?id=1x7ppWIrsRBSh1n_zvn3SvrJRjHQTTzgF",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "tiktok": "https://www.tiktok.com/@milenashem.yt?_t=ZM-8wKRWKojQbX&_r=1"
+  }
+},
+
+    {
       "chainId": 101,
       "address": "DJKX1cX2SPPaTdYBeuriUeQUUEpi2UGBGGPQthNMrgaa",
       "symbol": "MONKE",
